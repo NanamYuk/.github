@@ -13,7 +13,7 @@ NanamYuk is an gardening management and plant recommendation Android Application
 |            Member           | Student ID |        Path        |                                                   
 | :-------------------------: | :--------: | :----------------: | 
 |M. Syah Zichrullah Habibie   | M2322F2811 |  Machine Learning  | 
-|      Naufaldi Hafidigbal     | M2224W2072 |  Machine Learning  |
+|      Naufaldi Hafidhigbal     | M2224W2072 |  Machine Learning  |
 |     Muhammad Irfan    | A2322F2812| Mobile Development |
 |    M. Rifki Aufa     | A2322F2813 | Mobile Development |
 |Ahmad Solahudin Rifandi    | C2224W2082 |   Cloud Computing  |             
